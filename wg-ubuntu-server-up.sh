@@ -10,7 +10,7 @@ set -x # enable print all commands
 working_dir="$HOME/wireguard"
 
 # inputs:
-clients=10
+clients=1000
 reboot_enabled=true
 unbound_enabled=true
 
